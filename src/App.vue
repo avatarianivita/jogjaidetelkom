@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="https://vuejs.org/images/logo.png" />
-    <HelloWorld msg="Welcome to Jogjaide Makassar" />
+    <HelloWorld msg="Welcome to Jogjaide Pengayoman Makassar" />
     <tombol msg="Welcome to Jogjaide" class="btn btn-danger" />
   </div>
 </template>
